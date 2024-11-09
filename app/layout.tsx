@@ -68,8 +68,8 @@ export default function RootLayout({
             </div>
           </div>
         </nav>
-        <InstallBootstrapJs />
         {children}
+        <InstallBootstrapJs />
       </body>
     </html>
   );

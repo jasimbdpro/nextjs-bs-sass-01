@@ -8,5 +8,5 @@ export default function InstallBootstrapJs() {
     //@ts-ignore
     import("bootstrap/dist/js/bootstrap.bundle.js");
   });
-  return <></>;
+  return null;
 }
